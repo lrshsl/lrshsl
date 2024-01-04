@@ -5,7 +5,7 @@ I'm just someone who's interested in basically everything about programming and 
 #### What I can do
 
 ##### Programming Languages
-[![Most used languages](https://lrshsl-github-readme-stats.vercel.app/api/top-langs/?username=lrshsl&hide=jupyter-notebook&langs_count=5&theme=chartreuse-dark)]()
+[![Most used languages](https://lrshsl-github-readme-stats.vercel.app/api/top-langs/?username=lrshsl&langs_count=6&exclude_repo=github-readme-stats&theme=chartreuse-dark)]()
 
 Since the above graph isn't really representive for my language skills and preferences, I created my own language ranking. The numbers can (generally) be read like "per cent of the language that I know", or maybe better just in relation to each other.
 
