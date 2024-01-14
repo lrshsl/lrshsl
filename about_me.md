@@ -1,8 +1,8 @@
-### Hi there :)
+### who I am
 
 I'm just someone who's interested in basically everything about programming and computers. I'm especially fascinated by *notation*, i. e. any kind of language, alphabet and grammar, be it for programming languages, natural languages, maths notation or other DSLs.
 
-#### What I can do
+### What I can do
 
 ##### Programming Languages
 [![Most used languages](https://lrshsl-github-readme-stats.vercel.app/api/top-langs/?username=lrshsl&langs_count=6&exclude_repo=github-readme-stats&theme=chartreuse-dark)]()
@@ -21,7 +21,7 @@ Others:
 
 I'd say I'm *proficient* in Python, *intermediate* in Rust, and *get along* with almost everything else that is considered "mainstream". As one can see, very wide ranging interests, not much focus..
 
-#### What I want to learn
+### What I want to learn
 
 I'm interested in many areas of software development. What I'd like to know more about, or spend more time doing:
 
@@ -33,7 +33,7 @@ I'm interested in many areas of software development. What I'd like to know more
 - More Rust :)
 - More exotic languages, such as APL or Assembler
 
-#### What I want to do
+### What I want to do
 
 - Languages:
   - Markup language that combines Markdown and Latex with styling. Could compile to HTML maybe
